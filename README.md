@@ -6,6 +6,7 @@ Current fixed-price offer:
 
 - Revenue Leak Audit: https://seitengrat.com/
 - Checkout: https://seitengrat.com/buy
+- Free scan: https://seitengrat.com/quick-scan.html
 - Sample report: https://seitengrat.com/sample.html
 - Free checklist: https://seitengrat.com/checklist.html
 
